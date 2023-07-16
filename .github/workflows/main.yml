@@ -1,5 +1,5 @@
 - name: html to pdf
-  uses: misaelnieto/web_to_pdf_action@master
+  uses: dalian-js/web_to_pdf_action@master
   with:
     webPageURL: https://thenewstack.io/graphql-break-free-of-backend-for-frontend-sprawl/
     outputFile: ./resume.pdf
